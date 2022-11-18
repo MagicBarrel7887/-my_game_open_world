@@ -6,5 +6,3 @@
          player.transform.position = Destination.transform.position;
      }
  }
- 
-
